@@ -1,17 +1,33 @@
 # Rida El Mardi
 
-Ich habe Informatik an der TU Dortmund studiert. In meinen Projekten habe ich Messdaten ausgewertet, ML-Modelle trainiert und Anwendungen für Web, Desktop und Android entwickelt.
+Ich habe Informatik an der TU Dortmund studiert. Meine Projekte reichen von Signalverarbeitung und Machine Learning bis zur Entwicklung von Web-, Desktop- und Android-Anwendungen.
 
-## Im Fokus: Schallortung mit vier Mikrofonen
+## Schallortung mit vier Mikrofonen · Bachelorarbeit
 
-In meiner Bachelorarbeit habe ich SRP-PHAT und MUSIC anhand eigener Innen- und Außenmessungen verglichen. Zum Projekt gehört ein ROS-2-Prototyp für die Auswertung gespeicherter Audiodateien. [Zum Quellcode und Projekt-README](https://github.com/ridalo99/bachelor-doa).
+Ich habe SRP-PHAT und MUSIC anhand eigener Innen- und Außenmessungen verglichen. Zum Projekt gehört ein ROS-2-Prototyp für die Auswertung gespeicherter Audiodateien.
 
-## Weitere Projekte aus dem Studium und der Praxis
+[Quellcode: bachelor-doa](https://github.com/ridalo99/bachelor-doa) · Python, ROS 2, Signalverarbeitung
 
-| Projekt | Was ich daran gemacht habe | Technologien |
-| --- | --- | --- |
-| Kundenreservierung im Web | Reservierungsformular mit Validierung und Verwaltungsansicht für Kundenanfragen; Firebase zur Datenhaltung und Bereitstellung | JavaScript, HTML, CSS, Firebase |
-| Catan-Bot (Teamprojekt) | Im Team regelbasierte und lernende Ansätze untersucht; mein Schwerpunkt lag auf einem neuronalen Netz für Handelsentscheidungen | Python, PyTorch |
-| Restaurant-Reservierungssystem | Visuelle Tischübersicht für Desktop und Android | Python, PyQt6, Kivy, Buildozer |
-| Cascadia mit Online-Modus (Teamprojekt) | An Benutzeroberfläche, Datenmodell und Client-Server-Kommunikation mitgearbeitet | Kotlin, BGW, GitLab |
-| MIPS-Prozessor und Robotik | Prozessor mit Speicher und Datenpfad sowie Aufgaben zur Sensor- und Aktuatoranbindung | VHDL, GHDL, LEGO Mindstorms |
+## Team Catan · Machine Learning für Handelsentscheidungen
+
+Im Team haben wir regelbasierte und lernende Spielstrategien untersucht. Mein Schwerpunkt war ein neuronales Netz für Handelsentscheidungen, einschließlich Datenaufbereitung und Modelltraining mit PyTorch.
+
+## Kundenreservierung · Web-App
+
+Das Projekt verbindet ein Formular mit Eingabevalidierung und eine Verwaltungsansicht für Kundenanfragen. Firebase dient zur Datenhaltung und Bereitstellung. Technologien: JavaScript, HTML, CSS und Firebase.
+
+## Tischreservierung · Desktop und Android
+
+Eine visuelle Tischübersicht für Restaurantreservierungen. Ich habe an der Desktop-Fassung mit PyQt6 und an der Übertragung auf Android mit Kivy und Buildozer gearbeitet.
+
+## Cascadia mit Online-Modus · Teamprojekt
+
+Ich habe an Benutzeroberfläche, Datenmodell und Client-Server-Kommunikation mitgearbeitet. Technologien: Kotlin, BGW und GitLab.
+
+## MIPS-Prozessor · VHDL
+
+Im Hardwarepraktikum habe ich einen einfachen MIPS-Prozessor mit Speicher und Datenpfad umgesetzt. Technologien: VHDL und GHDL.
+
+## Sensoren und Aktuatoren · LEGO Mindstorms
+
+In einem Robotikpraktikum habe ich Aufgaben zur Anbindung von Sensoren und Aktuatoren bearbeitet.
