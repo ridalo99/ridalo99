@@ -26,12 +26,8 @@ Ich habe an Benutzeroberfläche, Datenmodell und Client-Server-Kommunikation mit
 
 ## MIPS-Prozessor · VHDL
 
-Im Hardwarepraktikum habe ich einen einfachen MIPS-Prozessor mit Speicher und Datenpfad umgesetzt. Technologien: VHDL und GHDL.
+Im Hardwarepraktikum habe ich einen einfachen MIPS-Prozessor mit Speicher und Datenpfad umgesetzt. Technologien: VHDL und GHDL. [Quellcode und Testbenches](https://github.com/ridalo99/mips-vhdl).
 
 ## Sensoren und Aktuatoren · LEGO Mindstorms
 
 In einem Robotikpraktikum habe ich Aufgaben zur Anbindung von Sensoren und Aktuatoren bearbeitet.
-
-## Mau-Mau
-
-Kartenspiel-Projekt. Quellcode und Projektdetails folgen.
