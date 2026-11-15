@@ -10,7 +10,7 @@ Ich habe SRP-PHAT und MUSIC anhand eigener Innen- und Außenmessungen verglichen
 
 ## Team Catan · Machine Learning für Handelsentscheidungen
 
-Im Team haben wir regelbasierte und lernende Spielstrategien untersucht. Mein Schwerpunkt war ein neuronales Netz für Handelsentscheidungen, einschließlich Datenaufbereitung und Modelltraining mit PyTorch.
+Im Team haben wir regelbasierte und lernende Spielstrategien untersucht. Mein Schwerpunkt war ein neuronales Netz für Handelsentscheidungen, einschließlich Datenaufbereitung und Modelltraining mit PyTorch. [Quellcode und Dokumentation](https://github.com/ridalo99/team-catan-trading-ml).
 
 ## Kundenreservierung · Web-App
 
@@ -18,7 +18,7 @@ Das Projekt verbindet ein Formular mit Eingabevalidierung und eine Verwaltungsan
 
 ## Tischreservierung · Desktop und Android
 
-Eine visuelle Tischübersicht für Restaurantreservierungen. Ich habe an der Desktop-Fassung mit PyQt6 und an der Übertragung auf Android mit Kivy und Buildozer gearbeitet.
+Eine visuelle Tischübersicht für Restaurantreservierungen. Ich habe an der Desktop-Fassung mit PyQt6 und an der Übertragung auf Android mit Kivy und Buildozer gearbeitet. [Quellcode und Startanleitung](https://github.com/ridalo99/reservations-desktop-android).
 
 ## Cascadia mit Online-Modus · Teamprojekt
 
@@ -31,3 +31,7 @@ Im Hardwarepraktikum habe ich einen einfachen MIPS-Prozessor mit Speicher und Da
 ## Sensoren und Aktuatoren · LEGO Mindstorms
 
 In einem Robotikpraktikum habe ich Aufgaben zur Anbindung von Sensoren und Aktuatoren bearbeitet.
+
+## Mau-Mau
+
+Kartenspiel-Projekt. Quellcode und Projektdetails folgen.
