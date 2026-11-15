@@ -14,7 +14,7 @@ Im Team haben wir regelbasierte und lernende Spielstrategien untersucht. Mein Sc
 
 ## Kundenreservierung · Web-App
 
-Das Projekt verbindet ein Formular mit Eingabevalidierung und eine Verwaltungsansicht für Kundenanfragen. Firebase dient zur Datenhaltung und Bereitstellung. Technologien: JavaScript, HTML, CSS und Firebase.
+Das Projekt verbindet ein Formular mit Eingabevalidierung und eine Verwaltungsansicht für Kundenanfragen. Firebase dient zur Datenhaltung und Bereitstellung. Technologien: JavaScript, HTML, CSS und Firebase. [Quellcode: reservations-web](https://github.com/ridalo99/reservations-web).
 
 ## Tischreservierung · Desktop und Android
 
